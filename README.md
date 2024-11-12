@@ -1,2 +1,3 @@
 # WeatherStation
 Weather Station using Raspberry Pi and Arduino
+Designed and implemented a weather station using Raspberry Pi and Arduino for real-time environmental monitoring. The system captures data on temperature, humidity, air quality, rainfall, light intensity, and wind speed using multiple sensors, storing data locally in SQLite3 and in the cloud via Google Firebase. A Flask-based web interface enables users to view real-time and historical weather data, supporting queries by location. This project highlights skills in IoT integration, cloud storage, and web-based data visualization, with potential for future machine learning enhancements for weather prediction.
